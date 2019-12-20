@@ -1,0 +1,14 @@
+{
+  "name": "web_test2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodejs index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesse Iberri",
+  "license": "ISC"
+}
